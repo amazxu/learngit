@@ -1,2 +1,2 @@
-This is a new line.
-This is the second line.
+Git is a version control system.
+Git is free software.
